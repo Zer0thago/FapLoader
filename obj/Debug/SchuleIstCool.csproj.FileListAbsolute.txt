@@ -1,0 +1,16 @@
+C:\Users\stefa\source\repos\SchuleIstCool\bin\Debug\SchuleIstCool.exe.config
+C:\Users\stefa\source\repos\SchuleIstCool\bin\Debug\SchuleIstCool.exe
+C:\Users\stefa\source\repos\SchuleIstCool\bin\Debug\SchuleIstCool.pdb
+C:\Users\stefa\source\repos\SchuleIstCool\bin\Debug\Guna.UI2.dll
+C:\Users\stefa\source\repos\SchuleIstCool\obj\Debug\SchuleIstCool.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\SchuleIstCool\obj\Debug\SchuleIstCool.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\source\repos\SchuleIstCool\obj\Debug\SchuleIstCool.Form1.resources
+C:\Users\stefa\source\repos\SchuleIstCool\obj\Debug\SchuleIstCool.Properties.Resources.resources
+C:\Users\stefa\source\repos\SchuleIstCool\obj\Debug\SchuleIstCool.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\SchuleIstCool\obj\Debug\SchuleIstCool.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\SchuleIstCool\obj\Debug\SchuleIstCool.csproj.CopyComplete
+C:\Users\stefa\source\repos\SchuleIstCool\obj\Debug\SchuleIstCool.exe
+C:\Users\stefa\source\repos\SchuleIstCool\obj\Debug\SchuleIstCool.pdb
+C:\Users\stefa\source\repos\SchuleIstCool\bin\Debug\HtmlAgilityPack.dll
+C:\Users\stefa\source\repos\SchuleIstCool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\stefa\source\repos\SchuleIstCool\bin\Debug\HtmlAgilityPack.xml
